@@ -15,7 +15,7 @@ body {
 
 .wrapper {
 	position: fixed;
-    right: 0;
+    left: 0;
     top: 0;
     height: 700px;
     background: rgb(245, 200, 53);
@@ -39,8 +39,8 @@ body {
 	font-family: 'Pacifico', cursive;
 	text-align: center;
 	font-size: 3.2em;
-	color: rgb(37, 39, 4);
-	text-shadow: 1px 4px 4px #242102;
+	color: rgb(63, 65, 43);
+	text-shadow: 1px 4px 4px #cfc014;
 	
 	z-index: 100;
 	margin-bottom: 10%;
