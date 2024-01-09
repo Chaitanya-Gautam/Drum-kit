@@ -48,4 +48,4 @@ This project is a virtual drum kit implemented using HTML, CSS, and JavaScript. 
 
 ---
 
-**Happy Drumming! 🥁🎵**
+**Happy Drumming! 🥁🌟**
